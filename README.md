@@ -1,2 +1,2 @@
-# Do-an-tot-nghiep
-Do an tot nghiep khoa hoc IOT cua funix
+# Giải pháp IOT dành cho thiết bị rèm cửa trong nhà thông minh
+Đang phát triển, vui lòng đợi tý :v
