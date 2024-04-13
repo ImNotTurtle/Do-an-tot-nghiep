@@ -1,0 +1,15 @@
+../Src/USART.c:22:6:USART1_IRQHandler	2
+../Src/USART.c:31:6:MyUSART_Init	1
+../Src/USART.c:36:6:USART_SendFrame	2
+../Src/USART.c:54:13:USART_GenerateFrame	3
+../Src/USART.c:73:13:USART_GenerateDeviceConnected	1
+../Src/USART.c:81:13:USART_GenerateDeviceDisconnected	1
+../Src/USART.c:89:13:USART_GenerateLevelControl	1
+../Src/USART.c:101:13:USART_GenerateDeviceReport	1
+../Src/USART.c:112:13:USART_SendByte	3
+../Src/USART.c:117:16:CalcXor	2
+../Src/USART.c:135:13:CheckXor	1
+../Src/USART.c:138:20:PollRxBuffer	6
+../Src/USART.c:179:13:ProcessSerialReceiver	3
+../Src/USART.c:193:13:USART1_Init	1
+../Src/USART.c:243:13:USART6_Init	1

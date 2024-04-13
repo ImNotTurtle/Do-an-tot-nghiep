@@ -1,0 +1,6 @@
+../Src/Queue.c:10:9:Queue_Init	1
+../Src/Queue.c:18:6:Queue_IsEmpty	1
+../Src/Queue.c:21:6:Queue_IsFull	2
+../Src/Queue.c:30:6:Queue_EnQueue	2
+../Src/Queue.c:36:6:Queue_DeQueue	4
+../Src/Queue.c:51:6:Queue_GetFront	2

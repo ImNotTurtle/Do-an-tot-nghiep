@@ -1,0 +1,6 @@
+../Src/Queue.c:10:9:Queue_Init	24	static
+../Src/Queue.c:18:6:Queue_IsEmpty	16	static
+../Src/Queue.c:21:6:Queue_IsFull	16	static
+../Src/Queue.c:30:6:Queue_EnQueue	16	static
+../Src/Queue.c:36:6:Queue_DeQueue	16	static
+../Src/Queue.c:51:6:Queue_GetFront	16	static

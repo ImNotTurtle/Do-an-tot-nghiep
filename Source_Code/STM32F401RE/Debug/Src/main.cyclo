@@ -1,0 +1,5 @@
+../Src/main.c:20:5:main	1
+../Src/main.c:31:13:Main_AppCommonInit	1
+../Src/main.c:49:13:Main_UsartHandler	4
+../Src/main.c:68:13:Main_DeviceStateMachine	3
+../Src/main.c:86:13:Main_DeviceManaging	5

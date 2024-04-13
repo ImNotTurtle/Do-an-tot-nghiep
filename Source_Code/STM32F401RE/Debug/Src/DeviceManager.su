@@ -1,0 +1,10 @@
+../Src/DeviceManager.c:19:6:DeviceManager_DeviceInit	24	static
+../Src/DeviceManager.c:37:10:DeviceManager_GetDevice	16	static
+../Src/DeviceManager.c:40:6:DeviceManager_SetDeviceOnline	8	static
+../Src/DeviceManager.c:46:6:DeviceManager_SetDeviceOffline	8	static
+../Src/DeviceManager.c:52:6:DeviceManager_SetDeviceLevel	16	static
+../Src/DeviceManager.c:58:6:DeviceManager_UpdateLastTime	16	static
+../Src/DeviceManager.c:64:6:DeviceManager_Update	32	static
+../Src/DeviceManager.c:90:13:DeviceManager_IsUpdatePending	4	static
+../Src/DeviceManager.c:93:13:DeviceManager_SetUpdatePending	4	static
+../Src/DeviceManager.c:96:13:DeviceManager_ClearUpdatePending	4	static

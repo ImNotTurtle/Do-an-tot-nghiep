@@ -1,0 +1,4 @@
+../Src/LCD.c:18:6:LCD_Init	1
+../Src/LCD.c:30:6:LCD_DisplayState	3
+../Src/LCD.c:40:6:LCD_DisplayLevel	2
+../Src/LCD.c:72:6:LCD_ClearScreen	1
