@@ -9,4 +9,5 @@ Dự án này tập trung vào việc phát triển một mô hình rèm cửa t
 2. Giám sát thiết bị từ xa: Mọi trạng thái của rèm đều được đồng bộ với ứng dụng di động, giúp cho việc quản lý rèm cửa trở nên dễ dàng.
 ## Hướng dẫn cài đặt
 Bạn có thể tìm thấy hướng dẫn chi tiết về cách cài đặt và triển khai dự án trong thư mục Instructions. Xin vui lòng tham khảo tài liệu này để bắt đầu.
-
+## Các tính năng sẽ phát triển
+Dự án này sử dụng Blynk Server để thiết lập và duy trì kết nối từ xa thông qua app. Do sự giới hạn và những hạn chế trong khả năng linh hoạt của server khiến cho dự án này còn nhiều tính năng chưa được phát triển như tính năng đóng / mở rèm tự động theo thời gian, theo nhiệt độ, khóa an toàn cho trẻ, ... Nếu có thể tìm được lựa chọn thay thế cho server Blynk, các tính năng kể trên sẽ được phát triển để tạo nên mô hình IOT hoàn thiện
