@@ -10,6 +10,6 @@
 1. Chọn thư mục của thiết bị bạn cần tải về trong thư mục Source_Code.
 2. Dựa vào loại thiết bị mà chọn IDE, mạch nạp, phần mềm nạp cho phù hợp
 3. Sao chép mã nguồn vào IDE (import), chọn dúng thiết bị và tiến hành nạp code
-4. Enjoy ¯\(•‿•)/¯
+4. Enjoy ¯\\(•‿•)/¯
 # Tham khảo
 Trong cùng thư mục Instructions có một thư mục là Diagrams chứa các sơ đồ có liên quan bao gồm: sơ đồ thuật toán, sơ đồ hoạt động, sơ đồ phân tầng, sơ đồ kết nối, ... giúp cho việc tiếp cận và hiểu dự án trở nên dễ dàng (các sơ đồ này được vẽ bằng draw.io, vui lòng mở file bằng draw.io phiên bản web hoặc app trên pc). Bên cạnh đó là file báo cáo .pdf chứa tất tần tật, tuốt tuồn tuột mọi thứ về dự án này
